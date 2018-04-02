@@ -4,7 +4,7 @@ A repository for exercises from [NodeSchool](https://nodeschool.io)
 
 - [x] javascripting
 - [x] learnyounode
-- [ ] count-to-6
+- [x] count-to-6
 - [ ] js-best-practices
 - [ ] stream-adventure
 - [ ] scope-chains-closures
