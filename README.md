@@ -8,10 +8,10 @@ A repository for exercises from [NodeSchool](https://nodeschool.io)
 - [x] js-best-practices
 - [ ] stream-adventure
 - [ ] scope-chains-closures
+- [ ] promise-it-wont-hurt
 - [ ] functional-javascript-workshop
 - [ ] test-anything
 - [ ] bug-clinic
-- [ ] promise-it-wont-hurt
 - [ ] async-you
 - [ ] perfschool
 - [ ] regex-adventure
